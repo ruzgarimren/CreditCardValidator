@@ -1,2 +1,2 @@
-# Credit
+# Credit Card Validator
 kemal
