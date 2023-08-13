@@ -34,3 +34,6 @@ Contributions to the project are welcome! Whether you find bugs, have ideas for 
 5. Open a pull request with a detailed description of your changes.
    
 Validate credit card numbers effortlessly with the Credit Card Validator. Use Luhn's algorithm to ensure the accuracy of credit card data and classify cards by type. Contribute to the project to enhance its functionality and make it even more valuable for developers and enthusiasts alike.
+
+# Credits
+Created By [Ruzgar Imren]
